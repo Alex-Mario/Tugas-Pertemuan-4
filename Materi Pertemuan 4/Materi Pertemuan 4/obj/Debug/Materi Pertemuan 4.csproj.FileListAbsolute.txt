@@ -1,0 +1,7 @@
+E:\Data Sharp Develop\Materi Pertemuan 4\Materi Pertemuan 4\bin\Debug\Materi Pertemuan 4.exe
+E:\Data Sharp Develop\Materi Pertemuan 4\Materi Pertemuan 4\bin\Debug\Materi Pertemuan 4.pdb
+E:\Data Sharp Develop\Materi Pertemuan 4\Materi Pertemuan 4\obj\Debug\Materi Pertemuan 4.csprojResolveAssemblyReference.cache
+E:\Data Sharp Develop\Materi Pertemuan 4\Materi Pertemuan 4\obj\Debug\Materi_Pertemuan_4.MainForm.resources
+E:\Data Sharp Develop\Materi Pertemuan 4\Materi Pertemuan 4\obj\Debug\Materi Pertemuan 4.csproj.GenerateResource.Cache
+E:\Data Sharp Develop\Materi Pertemuan 4\Materi Pertemuan 4\obj\Debug\Materi Pertemuan 4.exe
+E:\Data Sharp Develop\Materi Pertemuan 4\Materi Pertemuan 4\obj\Debug\Materi Pertemuan 4.pdb
